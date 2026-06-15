@@ -1,10 +1,10 @@
 Construction,Position,Detail,Date,Start_Time,End_Time
 Damage Introduction DS0,I & II,"Concrete damaged in II, minor damaged in I, depth in both ~10cm",26.11.2019,10:32,10:32
-Perturbation,NA,"Excavator outside, near bridge support",26.11.2019,10:50,15:50
+Perturbation,Overall,"Excavator outside, near bridge support",26.11.2019,10:50,15:50
 Damage Introduction DS2,I &II,"Concrete damaged in II ~10cm, damaged in II ~45cm",26.11.2019,15:50,15:50
 Damage Introduction DS2,I & II,Concrete damaged in  I and II,26.11.2019,16:43,16:43
 Perturbation,Mid span,"Truck, 1 ton",26.11.2019,16:30,16:35
-Perturbation,NA,"Excavator outside, near bridge support. Drilling and exposing rebar",27.11.2019,13:00,17:00
+Perturbation,Overall,"Excavator outside, near bridge support. Drilling and exposing rebar",27.11.2019,13:00,17:00
 Damage Introduction DS2,II,Steel bars damaged in II,28.11.2019,8:12,8:17
 Damage Introduction DS3,I & II,Steel bars damaged in I and II,28.11.2019,8:47,8:57
 Perturbation,Mid span,"Truck, 1 ton",28.11.2019,8:23,8:25
@@ -13,5 +13,5 @@ Damage Introduction DS4,"I & II & III","Steel bars damaged in I, II and III.",28
 Damage Introduction DS5,"I & II & III",Steel bars damaged in I and III. Steel and 1/2 prestressed damage in II,28.11.2019,13:23,13:41
 Damage Introduction DS6,"I & II & III",Steel bars damaged in I and III. Steel and 1/2 prestressed damage in II,28.11.2019,14:13,15:20
 Damage Introduction DS7,"II & IV",Steel bars damaged in II. Steel and prestressed damage in II. Concrete damage in IV,29.11.2019,8:15,8:21
-Perturbation,NA,Excavator impulse hit,29.11.2019,8:19,8:19
-Perturbation,NA,Low weight truck impulse hit,29.11.2019,9:31,9:33
+Perturbation,Overall,Excavator impulse hit,29.11.2019,8:19,8:19
+Perturbation,Overall,Low weight truck impulse hit,29.11.2019,9:31,9:33
